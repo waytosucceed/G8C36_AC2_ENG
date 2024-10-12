@@ -1,0 +1,279 @@
+[
+    
+        {
+            "questionNo": "Q1.",
+            "question": "Convert the following sentences from simple future tense to future continuous tense: 'They will complete the project by next month.'",
+            "options": [
+                "They will be completing the project by next month.",
+                "They will complete the project by next month.",
+                "They are completing the project by next month.",
+                "They will have completed the project by next month."
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q2.",
+            "question": "Convert the following sentences from simple future tense to future continuous tense: 'She will not attend the meeting tomorrow.'",
+            "options": [
+                "She will not be attending the meeting tomorrow.",
+                "She will not attend the meeting tomorrow.",
+                "She will not have attended the meeting tomorrow.",
+                "She is not attending the meeting tomorrow."
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q3.",
+            "question": "Convert the following sentences from simple future tense to future continuous tense: 'Will you help us with the presentation?'",
+            "options": [
+                "Will you be helping us with the presentation?",
+                "Will you help us with the presentation?",
+                "Will you have been helping us with the presentation?",
+                "Are you helping us with the presentation?"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q4.",
+            "question": "Spot the error in the following sentence: 'By the end of this week, he will have complete all the necessary preparations.'",
+            "options": [
+                "By",
+                "will",
+                "have complete",
+                "all"
+            ],
+            "correct": 2
+        },
+        {
+            "questionNo": "Q5.",
+            "question": "Spot the error in the following sentence: 'Will you be plan to attend the seminar next month?'",
+            "options": [
+                "Will",
+                "you",
+                "be plan",
+                "to attend"
+            ],
+            "correct": 2
+        },
+        {
+            "questionNo": "Q6.",
+            "question": "Spot the error in the following sentence: 'Next year, we will be having attended the conference if we keep our plans.'",
+            "options": [
+                "Next year",
+                "will be",
+                "having attended",
+                "the conference"
+            ],
+            "correct": 2
+        },
+        {
+            "questionNo": "Q7.",
+            "question": "Fill in the blank: If you work hard, you ______ (achieve) your goals.",
+            "options": [
+                "will achieve",
+                "will be achieving",
+                "are achieving",
+                "will have achieved"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q8.",
+            "question": "Fill in the blank: Next week, I ______ (give) a presentation at the conference.",
+            "options": [
+                "will give",
+                "will be giving",
+                "am giving",
+                "will have given"
+            ],
+            "correct": 1
+        },
+        {
+            "questionNo": "Q9.",
+            "question": "Fill in the blank: I ______ (call) you as soon as I get the news.",
+            "options": [
+                "will call",
+                "will be calling",
+                "am calling",
+                "will have called"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q10.",
+            "question": "Fill in the blank: If the weather improves, we ______ (have) a picnic this weekend.",
+            "options": [
+                "will have",
+                "will be having",
+                "have",
+                "will have had"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q11.",
+            "question": "Fill in the blank: At 8 PM tonight, I ______ (be attending) the webinar on digital marketing.",
+            "options": [
+                "will be attending",
+                "will attend",
+                "am attending",
+                "will have attended"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q12.",
+            "question": "Fill in the blank: She ______ (join) us for dinner if she finishes her work early.",
+            "options": [
+                "will join",
+                "will be joining",
+                "joins",
+                "will have joined"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q13.",
+            "question": "Fill in the blank: During the summer break, she ______ (be taking) a course in graphic design.",
+            "options": [
+                "will be taking",
+                "will take",
+                "is taking",
+                "will have taken"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q14.",
+            "question": "Fill in the blank: We ______ (review) the new policy changes next week.",
+            "options": [
+                "will review",
+                "will be reviewing",
+                "are reviewing",
+                "will have reviewed"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q15.",
+            "question": "Fill in the blank: They ______ (not start) the project until the new guidelines are received.",
+            "options": [
+                "will not start",
+                "will not be starting",
+                "do not start",
+                "will not have started"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q16.",
+            "question": "Fill in the blank: Won’t we ______ (be waiting) long for the new shipment to arrive?",
+            "options": [
+                "be waiting",
+                "wait",
+                "be waited",
+                "have waited"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q17.",
+            "question": "Identify the tense used in the sentence: 'By this time tomorrow, I will be reviewing the final draft.'",
+            "options": [
+                "Simple future",
+                "Future continuous",
+                "Present continuous",
+                "Future perfect"
+            ],
+            "correct": 1
+        },
+        {
+            "questionNo": "Q18.",
+            "question": "Identify the tense used in the sentence: 'She will meet the new client tomorrow afternoon.'",
+            "options": [
+                "Future continuous",
+                "Present continuous",
+                "Simple future",
+                "Past simple"
+            ],
+            "correct": 2
+        },
+        {
+            "questionNo": "Q19.",
+            "question": "Identify the tense used in the sentence: 'We will be hosting a dinner party when they arrive.'",
+            "options": [
+                "Present perfect continuous",
+                "Future continuous",
+                "Simple future",
+                "Present continuous"
+            ],
+            "correct": 1
+        },
+        {
+            "questionNo": "Q20.",
+            "question": "Identify the tense used in the sentence: 'I will inform you once the decision is made.'",
+            "options": [
+                "Future perfect",
+                "Future continuous",
+                "Simple future",
+                "Present perfect"
+            ],
+            "correct": 2
+        },
+        {
+            "questionNo": "Q21.",
+            "question": "______ we ______ (not inform) the team about the changes before the meeting starts?",
+            "options": [
+                "Will, not inform",
+                "Will, not be informing",
+                "Are, not informing",
+                "Will, not have informed"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q22.",
+            "question": "______ they ______ (not travel) across Europe during the summer break?",
+            "options": [
+                "Will, not travel",
+                "Will, not be travelling",
+                "Are, not travelling",
+                "Will, not have travelled"
+            ],
+            "correct": 1
+        },
+        {
+            "questionNo": "Q23.",
+            "question": "______ we ______ (reach) the destination before sunset if we leave now?",
+            "options": [
+                "Will, reach",
+                "Will, be reaching",
+                "Are, reaching",
+                "Will, have reached"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q24.",
+            "question": "______ the board members ______ (not approve) the budget at the next meeting?",
+            "options": [
+                "Will, not approve",
+                "Will, not be approving",
+                "Are, not approving",
+                "Will, not have approved"
+            ],
+            "correct": 0
+        },
+        {
+            "questionNo": "Q25.",
+            "question": "______ we ______ (not present) the new strategy during the conference tomorrow?",
+            "options": [
+                "Will, not present",
+                "Will, not be presenting",
+                "Are, not presenting",
+                "Will, not have presented"
+            ],
+            "correct": 1
+        }
+    
+    ]
